@@ -2,6 +2,8 @@
 Lazymux tools installer is very easy to use, only provided for lazy termux users; it's huge list of Many Hacking tools and PEN TESTING!
 **NOTE: Am not Responsible of bad use of this project.**
 
+##Install
+• apt update && apt upgrade && pkg install git && pkg install python2
 ## Screenshot
 <img src="core/lazymux2.png">
 
@@ -17,7 +19,7 @@ git clone https://github.com/hazelduo/LazyMux
 cd Lazymux
 
 python2 lazymux.py
-# OR
+# only python2 working 
 python lazymux.py
 ```
 
