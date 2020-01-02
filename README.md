@@ -22,17 +22,6 @@ python lazymux.py
 • Python 2.x<br>
 • git<br>
 
-##### Installation and Using Lazymux
-```shell
-git clone https://github.com/hazelduo/LazyMux
- 
-cd Lazymux
-
-python2 lazymux.py
-# only python2 working 
-python lazymux.py
-```
-
 ###### Authors
 • [hazelduo](https://github.com/hazelduo)
 
