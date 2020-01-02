@@ -5,6 +5,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 ## Install For Termux
 
 • apt update && apt upgrade && pkg install git && pkg install python2
+
 • ```shell
 git clone https://github.com/hazelduo/LazyMux
  
